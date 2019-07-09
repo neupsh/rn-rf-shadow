@@ -6,6 +6,7 @@
    [reagent.core :as r]
    [re-frame.core :as rf]
    [shadow.expo :as expo]
+   [example.three :as three]
    [example.events]
    [example.subs]))
 
