@@ -1,7 +1,7 @@
 {
   "main": "app/index.js",
   "scripts": {
-    "watch-cljs": "shadow-cljs watch app",
+    "watch": "shadow-cljs watch app",
     "server": "shadow-cljs server",
     "start": "expo start",
     "android": "expo start --android",
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "babel-preset-expo": "^5.2.0",
-    "shadow-cljs": "^2.8.8"
+    "shadow-cljs": "^2.8.40"
   },
   "private": true
 }
