@@ -26,9 +26,7 @@
             :fontSize 24
             :color "blue"}
            :button
-           {:fontWeight "bold"
-            :fontSize 18
-            :padding 6
+           {:padding 6
             :backgroundColor "blue"
             :borderRadius 10}
            :buttonText
